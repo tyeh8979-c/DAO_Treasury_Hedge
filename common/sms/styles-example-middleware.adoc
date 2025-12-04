@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\common\sms\styles-example-middleware.adoc
+// Generated at: 2025-10-20T05:34:48.505Z
